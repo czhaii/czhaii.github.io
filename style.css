@@ -1,0 +1,27 @@
+body {
+	background-image:url("https://images.wallpaperscraft.com/image/laptop_room_on_the_desk_keyboard_mouse_apple_window_interior_73963_1920x1080.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+h1 {
+	color: white;
+	position:fixed;
+	text-align:center;
+	top:50%;
+	left:50%;
+	transform: translateX(-50%)translateY(-50%);
+	font-family: 'Kalam', cursive;
+	font-size:3em;
+
+}
+
+.btn {
+	position:fixed;
+	top: 80%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	color:white;
+	font-family: 'Kalam', cursive;
+	 border-radius: 50%;
+}
